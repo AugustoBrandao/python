@@ -1,3 +1,4 @@
+nome = input("Nome: ")
 salario = float(input("Salário: "))
 
 if salario < 0:        # : -> if == true
